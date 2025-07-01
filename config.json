@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "RUDRA-B",
-    "PREFIX": "+",
+    "BOTNAME": "You",
+    "PREFIX": ",",
     "ADMINBOT": [
-        "61550558518720"
+        "100001749311229"
     ],
     "NDH": [
-        "61550558518720"
+        "100001749311229"
     ],
     "DATABASE": {
         "sqlite": {
